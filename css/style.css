@@ -1,0 +1,117 @@
+/* .bg{
+    background-color: green;
+}
+#header h2,h3{
+    margin: 0;
+    color: #ffffff;
+    height: 100px;
+}
+    
+#header h2{
+    background-color: rgb(29, 24, 24);
+}
+#header h3{
+    background-color: rgb(223, 30, 30);
+}
+#hero h2{
+    background-color: #4c86c6;
+    height: 700px;
+    margin: 0;
+    color: #ffffff;
+    
+} */
+
+/* acordion start here */
+.accordion-button{
+    font-size: 15px;
+    font-weight: 700;
+    color: #555555;
+    text-transform: uppercase;
+
+}
+.accordion-button:focus{
+    outline: none;
+    box-shadow: none;
+
+}
+.accordion-button:not(.collapsed) {
+    color: #0c63e4;
+    background-color: #7cdfdf;
+}
+section#accordion {
+    margin-top: 20px;
+}
+/* acordion end here */
+
+/* allerts start here */
+
+.alert-warning {
+    color: #000000;
+    background-color: #269993;
+    border-color: #7cbce7;
+}
+
+
+/* allerts end here */
+
+
+/* carousel start */
+
+.carousel-indicators [data-bs-target] {
+    border-radius: 100px;
+    width: 4%;
+    height: 11px;
+    border-radius: 40px;
+}
+/* carousel end */
+
+/* badge */
+
+.btn .badge {
+    position: relative;
+    top: -18px;
+    left: 20px;
+    border-radius: 25px;
+}
+.bg-secondary {
+    background-color: #ff0000!important;
+}
+/* badge */
+
+
+/* group start */
+
+
+.btn-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 35px;
+}
+.btn-info {
+    color: #000;
+    background-color: #fb78d9;
+    border-color: #fb78d9;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #61a94a;
+    border-color: #61a94a;
+    margin-left: 5px;
+}
+.btn-secondary {
+    color: #000;
+    background-color: #ffffff;
+    border-color: #6c757d;
+}
+
+/* group end*/
+
+/* card start */
+
+element.style {
+    width: 18rem;
+    margin-left: 204px;
+}
+
+/* card end */
